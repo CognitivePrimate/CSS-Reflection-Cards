@@ -8,8 +8,8 @@ body {
 .reflection {
     position: relative;
     height: 444px;
-    width: 333px;;
-    background: url(/images/canoeKent.jpg);
+    width: 333px;
+    background: url(./images/canoeKent.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
